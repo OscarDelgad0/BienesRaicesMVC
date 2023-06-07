@@ -1,0 +1,10 @@
+# Carpeta node_modules
+node_modules/
+# Carpeta build (generada por Gulp)
+#public/
+# Dependencias
+package-lock.json
+# Visual Studuio
+.vscode
+# Composer lock
+/vendor/
